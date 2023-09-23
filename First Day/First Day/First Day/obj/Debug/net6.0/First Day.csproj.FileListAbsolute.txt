@@ -1,0 +1,14 @@
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\bin\Debug\net6.0\First Day.exe
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\bin\Debug\net6.0\First Day.deps.json
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\bin\Debug\net6.0\First Day.runtimeconfig.json
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\bin\Debug\net6.0\First Day.dll
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\bin\Debug\net6.0\First Day.pdb
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.AssemblyInfoInputs.cache
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.AssemblyInfo.cs
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.csproj.CoreCompileInputs.cache
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.dll
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\refint\First Day.dll
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.pdb
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\First Day.genruntimeconfig.cache
+D:\C Sharp 15 Days Challenge\First Day\First Day\First Day\obj\Debug\net6.0\ref\First Day.dll
