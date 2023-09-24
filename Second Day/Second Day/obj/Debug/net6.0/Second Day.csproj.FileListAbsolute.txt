@@ -1,0 +1,14 @@
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\bin\Debug\net6.0\Second Day.exe
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\bin\Debug\net6.0\Second Day.deps.json
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\bin\Debug\net6.0\Second Day.runtimeconfig.json
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\bin\Debug\net6.0\Second Day.dll
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\bin\Debug\net6.0\Second Day.pdb
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.AssemblyInfoInputs.cache
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.AssemblyInfo.cs
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.csproj.CoreCompileInputs.cache
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.dll
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\refint\Second Day.dll
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.pdb
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\Second Day.genruntimeconfig.cache
+D:\C Sharp 15 Days Challenge\Second Day\Second Day\obj\Debug\net6.0\ref\Second Day.dll
